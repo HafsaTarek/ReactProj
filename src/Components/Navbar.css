@@ -56,7 +56,7 @@
     z-index: 1;
   }
 
-  .iconDiv .icon{
+  .iconDiv .icon, .LN{
     color: white;
   }
 

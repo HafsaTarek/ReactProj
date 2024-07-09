@@ -41,7 +41,7 @@ const NavBar = () => {
             <div className="d-sm-flex">
               
             <div className="iconDiv">
-            <Nav.Link href="https://www.linkedin.com/in/hafsa-hikal-87a591318/" target="_blank" className="icon">
+            <Nav.Link href="https://www.linkedin.com/in/hafsa-hikal-87a591318/" target="_blank" className="icon LN">
               <FontAwesomeIcon icon={faLinkedin} />
             </Nav.Link>
             </div>

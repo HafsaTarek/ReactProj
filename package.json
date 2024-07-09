@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepages": "https://HafsaTarek.github.io/react-project",
+  "homepages": "https://HafsaTarek.github.io/ReactProj",
   "private": true,
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.5.2",
